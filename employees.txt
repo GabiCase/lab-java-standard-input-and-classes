@@ -1,0 +1,50 @@
+Name: Lucas
+email: locasmail
+age: 40
+salary: 1234
+===============
+Name: Ana
+email: anemail
+age: 35
+salary: 11345
+===============
+Name: Juan
+email: juanmail
+age: 25
+salary: 1456
+===============
+Name: Sofia
+email: sofiaemail
+age: 28
+salary: 11567
+===============
+Name: Pedro
+email: pedroemail
+age: 30
+salary: 1678
+===============
+Name: Marta
+email: martaemail
+age: 22
+salary: 20000
+===============
+Name: Carlos
+email: carlosmail
+age: 32
+salary: 20000
+===============
+Name: Laura
+email: lauraemail
+age: 27
+salary: 20000
+===============
+Name: Fernando
+email: fernandomail
+age: 29
+salary: 2012
+===============
+Name: Elena
+email: elenamail
+age: 31
+salary: 2123
+===============
